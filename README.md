@@ -1,16 +1,9 @@
 # Machine Learning
-In this repository, I upload my Complete Machine Learning code which I have learned from different courses(Coursera, udemy, edx, udacity), different websites blogs, different tutorials from YouTube, books, and research papers. I have covered both Supervised and Unsupervised Machine Learning Algorithms with Practical Implementation.
+In this repository, I upload my Complete Machine Learning code which I have In my college and different websites blogs, different tutorials from YouTube, books, and research papers. I have covered both Supervised and Unsupervised Machine Learning Algorithms with Practical Implementation.
 
-#### Our Machine Learning Blog
-###### Link: https://medium.com/machine-learning-researcher
-
-#### Book that we  write on Machine Learning Topic Available on Amazon
-###### Title: Hands-on Machine Learning with Scikit-Learn
-###### Link: https://www.amazon.com/dp/1090626797
-
-#### These are following Projects that I have done in Machine Learning
+## These are following Projects that I have done in Machine Learning
   
- ## <------------------------------Supervised Learning ---------------------------->
+ ## Supervised Learning
 
 ## Regression
 
